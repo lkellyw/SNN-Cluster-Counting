@@ -33,7 +33,7 @@ This notebook extends the binary classification framework to perform classificat
 
 The notebook includes data preparation, training, validation, and model export.
 
-### `PionsKaons.ipynb`
+### `PionsKaonsCode.ipynb`
 
 Inference and analysis notebook.
 
